@@ -1,9 +1,9 @@
 
 
-Redux Cart Application
+#Redux Cart Application
 This is a simple shopping cart application built with React and Redux Toolkit. It demonstrates basic Redux concepts for state management, including adding items to the cart, removing them, and adjusting quantities.
 
-Features
+#Features
 Add to Cart: Add products to the shopping cart.
 Quantity Control: Increase or decrease the quantity of items in the cart (up to a maximum of 3 per item).
 Remove from Cart: Remove individual items from the cart.
